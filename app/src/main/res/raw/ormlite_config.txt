@@ -1,0 +1,40 @@
+#
+# generated on 2019/02/17 11:26:37
+#
+# --table-start--
+dataClass=com.example.sachi.videotask.model.VideoData
+tableName=videodata
+# --table-fields-start--
+# --field-start--
+fieldName=title
+# --field-end--
+# --field-start--
+fieldName=tumb
+# --field-end--
+# --field-start--
+fieldName=videourl
+# --field-end--
+# --field-start--
+fieldName=description
+# --field-end--
+# --field-start--
+fieldName=url
+# --field-end--
+# --field-start--
+fieldName=id
+generatedId=true
+allowGeneratedIdInsert=true
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+# --table-start--
+dataClass=com.example.sachi.videotask.model.ImageData
+tableName=imagedata
+# --table-fields-start--
+# --field-start--
+fieldName=imageurl
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

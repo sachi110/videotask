@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "49513201275",
+    "firebase_url": "https://videoproject-546b0.firebaseio.com",
+    "project_id": "videoproject-546b0",
+    "storage_bucket": "videoproject-546b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49513201275:android:5443adc43c2369c1",
+        "android_client_info": {
+          "package_name": "com.example.sachi.videotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49513201275-r0ues1m2kpife0428eudg7ola1de9bpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sachi.videotask",
+            "certificate_hash": "788f7d8b1437ce071af5bc4ef17d27a9272aea79"
+          }
+        },
+        {
+          "client_id": "49513201275-mf35k89el881a57h15bdg5b3ordpbmte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC85nSsY0wwurwobFnZPRlGzgrmQEm_vrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49513201275-mf35k89el881a57h15bdg5b3ordpbmte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
